@@ -1,0 +1,6 @@
+#Requirements
+pandas
+openpyxl
+watchdog
+apscheduler
+python-dotenv
