@@ -19,7 +19,7 @@ An automated ETL pipeline designed to streamline sales reporting for coffee vend
 
 ## How to run
 1. **Clone the repo:**
-   `git clone https://github.com/yourusername/coffee-sales-automation.git`
+   `git clone https://github.com/JeanMrc/coffee-sales-automation.git`
 2. **Install dependencies:**
    `pip install -r requirements.txt`
 3. **Configure environment:**
